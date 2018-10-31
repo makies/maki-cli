@@ -56,4 +56,8 @@ return [
         App\Providers\AppServiceProvider::class,
     ],
 
+    /*
+     * Timezone
+     */
+    'timezone' => 'Asia/Tokyo',
 ];
